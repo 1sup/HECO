@@ -1,7 +1,7 @@
 # HECO
-Several machine learning and deep learning method for household electricity consumption prediction
-In order to prevent version errors, the package versions in the virtual environment are listed as follows：
+Several machine learning and deep learning method for household electricity consumption prediction.
 
+In order to prevent version errors, the package versions in the virtual environment are listed as follows：
 _tflow_select             2.2.0                   
 absl-py                   0.12.0           
 astor                     0.8.1             
